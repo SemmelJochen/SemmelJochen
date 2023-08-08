@@ -4,8 +4,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemmelJochen&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemmelJochen&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=SemmelJochen)
-![visitors](https://visitor_badge.deta.dev/?id=github.SemmelJochen.visitor-badge)
+![Visitors](https://komarev.com/ghpvc/?username=SemmelJochen)
+<!-- ![visitors](https://visitor_badge.deta.dev/?id=github.SemmelJochen.visitor-badge) -->
 <!--
 **SemmelJochen/SemmelJochen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
